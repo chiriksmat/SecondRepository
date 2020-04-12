@@ -1,3 +1,3 @@
 Hello welcome to git tutorial. In next video we would learn git add, commit, push commands.
 
-This is good bro.
+Subsequently,  In next video we would also deal with permissions. Therefore, i encourage us to watch out.
